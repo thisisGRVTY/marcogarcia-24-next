@@ -1,0 +1,71 @@
+{
+  "id": "hero_start",
+  "type": "SharedSlice",
+  "name": "HeroStart",
+  "description": "HeroStart",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "heading": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Heading",
+            "placeholder": "Marco Garcia",
+            "allowTargetBlank": true,
+            "single": "heading1"
+          }
+        },
+        "subline1": {
+          "type": "StructuredText",
+          "config": {
+            "label": "subline1",
+            "placeholder": "Kreative",
+            "allowTargetBlank": false,
+            "single": "paragraph"
+          }
+        },
+        "subline2": {
+          "type": "StructuredText",
+          "config": {
+            "label": "subline2",
+            "placeholder": "Direktion",
+            "allowTargetBlank": false,
+            "single": "paragraph"
+          }
+        },
+        "subline3": {
+          "type": "StructuredText",
+          "config": {
+            "label": "subline3",
+            "placeholder": "Front-End",
+            "allowTargetBlank": false,
+            "single": "paragraph"
+          }
+        },
+        "imageleft": {
+          "type": "Image",
+          "config": {
+            "label": "imageLeft",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "imageright": {
+          "type": "Image",
+          "config": {
+            "label": "imageRight",
+            "constraint": {},
+            "thumbnails": []
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

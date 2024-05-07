@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 42.75 42.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #15171a;
+        stroke-miterlimit: 4;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="Gruppe_172" data-name="Gruppe 172">
+    <line id="Linie_1-4" data-name="Linie 1-4" class="cls-1" x1="1.77" y1="1.77" x2="40.98" y2="40.98"/>
+    <line id="Linie_2-4" data-name="Linie 2-4" class="cls-1" x1="40.98" y1="1.77" x2="1.77" y2="40.98"/>
+  </g>
+</svg>
